@@ -1,4 +1,5 @@
-enum Unit {
+enum Unit
+{
     Meter = "meter",
     Kilometer = "kilometer",
     Mile = "mile",
